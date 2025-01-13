@@ -30,3 +30,5 @@ class TipoSabor(models.Model):
     class Meta:
         verbose_name = '2 - TipoSabor'
         verbose_name_plural = '2 - TipoSabor'
+
+        #a
